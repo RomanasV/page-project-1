@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-section {
   background-color: var(--color-pale-cyan);
-  background-image: url('/images/bg-hero-mobile.svg');
+  background-image: url('./images/bg-hero-mobile.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }

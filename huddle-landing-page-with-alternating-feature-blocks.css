@@ -1,5 +1,5 @@
 :root {
-  --color-primary: hsl(322, 100%, 66%);
+  --color-primary: hsl(97, 100%, 66%);
   --color-pale-cyan: hsl(193, 100%, 96%);
   --color-dark-cyan: hsl(192, 100%, 9%);
   --color-blue: hsl(208, 11%, 55%);
@@ -272,11 +272,11 @@ ul.list-with-icons .footer-list-item {
 }
 
 .footer-social-list .footer-link:hover {
-  border-color: hsl(322, 100%, 66%);
+  border-color: var(--color-primary);
 }
 
 .footer-social-list .footer-link:hover .footer-social-icon {
-  fill: hsl(322, 100%, 66%);
+  fill: var(--color-primary);
 }
 
 .footer-copyright-wrapper {
